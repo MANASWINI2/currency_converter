@@ -3,8 +3,8 @@
 A currency exchange calculator program written in Java that uses an API to get the current exchange rates. It calculates the exchange rate between the two currencies and prints the result.
 
 Instructions to run the program:
-Download and install Java on your system if not already installed.
-Download the CurrencyCalculator.java file.
+1.Download and install Java on your system if not already installed.
+2.Download the CurrencyCalculator.java file.
 Open a command prompt or terminal and navigate to the directory where the file is saved.
 Compile the file using the command "javac CurrencyCalculator.java".
 Run the program using the command "java CurrencyCalculator".
